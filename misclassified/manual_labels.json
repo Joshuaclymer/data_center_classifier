@@ -1,0 +1,158 @@
+[
+    {
+        "location": "41.041059728737444, -80.63309049266806",
+        "original_label": "data_center",
+        "misclassification_type": "false_negative",
+        "manually_determined_label": "not_data_center",
+        "explanation": "this site is a Telecommunications equipment supplier, not a data center"
+    },
+    {
+        "location": "31.231904196338384, -85.45584883805839",
+        "original_label": "data_center",
+        "misclassification_type": "false_negative",
+        "manually_determined_label": "not_data_center",
+        "explanation": "this site is mobile surveillance supplier (a data services center, not a data center)"
+    },
+    {
+        "location": "40.68552518346085, -111.88504405838351",
+        "original_label": "data_center",
+        "misclassification_type": "false_negative",
+        "manually_determined_label": "data_center",
+        "MW": 1.92,
+        "MW_link": "https://www.ocolo.io/colocation/flexential/salt-lake-city-millcreek/"
+    },
+    {
+        "location": "37.49580861055279, -77.23828608770066",
+        "original_label": "data_center",
+        "misclassification_type": "false_negative",
+        "manually_determined_label": "image_cut_off"
+    },
+    {
+        "location": "35.08673849999998, -106.6153476",
+        "original_label": "data_center",
+        "misclassification_type": "false_negative",
+        "manually_determined_label": "data_center",
+        "MW": 1,
+        "explanation": "This is the University of New Mexico’s institutional data center."
+    },
+    {
+        "location": "40.524214419512596, -74.54801971324709",
+        "original_label": "data_center",
+        "misclassification_type": "false_negative",
+        "manually_determined_label": "not_data_center",
+        "explanation": "This is a hardware supplier, not a data center."
+    },
+    {
+        "location": "33.664745499999945, -112.1117142",
+        "original_label": "data_center",
+        "misclassification_type": "false_negative",
+        "manually_determined_label": "not_data_center",
+        "explanation": "This is an office complex, not a data center."
+    },
+    {
+        "location": "36.143716212884904, -115.08338594607392",
+        "original_label": "data_center",
+        "misclassification_type": "false_negative",
+        "manually_determined_label": "not_data_center",
+        "explanation": "This is a telecommunications facility, not a data center."
+    },
+    {
+        "location": "36.05914890088559, -115.21368205577333",
+        "original_label": "data_center",
+        "misclassification_type": "false_negative",
+        "manually_determined_label": "image_cut_off",
+        "explanation": "Only a small part of the site was visible. This image has pretty clear data center features when zooming out / looking at the larger buildings."
+    },
+    {
+        "location": "32.53872184532011, -96.804396257992",
+        "original_label": "data_center",
+        "misclassification_type": "false_negative",
+        "manually_determined_label": "not_data_center",
+        "explanation": "The site was under construction when the satellite photo was taken."
+    },
+    {
+        "location": "36.08125144033206, -95.8541491705349",
+        "original_label": "data_center",
+        "misclassification_type": "false_negative",
+        "manually_determined_label": "not_data_center",
+        "explanation": "I can't find any information online indicating this is a data center. (and it really doesn't look like one)"
+    },
+    {
+        "location": "29.672591133291228, -82.29992999372256",
+        "original_label": "data_center",
+        "misclassification_type": "false_negative",
+        "manually_determined_label": "data_center",
+        "MW": 3.2,
+        "explanation": "This is the University of Florida’s Research Computing Center (HiPerGator supercomputer)."
+    },
+    {
+        "location": "44.04740740013566, -121.3285496442757",
+        "original_label": "data_center",
+        "misclassification_type": "false_negative",
+        "manually_determined_label": "not_data_center",
+        "explanation": "This is a small web hosting facility. I wouldn't consider this a data center, and also, it's not currently active."
+    },
+    {
+        "location": "34.8302282334924, -106.77989614196927",
+        "original_label": "data_center",
+        "misclassification_type": "false_negative",
+        "manually_determined_label": "image_cut_off",
+        "explanation": "This is super zoomed in."
+    },
+    {
+        "location": "35.25531619999996, -120.64151280000002",
+        "original_label": "data_center",
+        "misclassification_type": "false_negative",
+        "manually_determined_label": "not_data_center",
+        "explanation": "This is a radio broadcaster, not a data center."
+    },
+    {
+        "location": "33.30627197658142, -111.67170030901957",
+        "original_label": "data_center",
+        "misclassification_type": "false_negative",
+        "manually_determined_label": "not_data_center",
+        "explanation": "This is an R&D and testing facility, not a data center."
+    },
+    {
+        "location": "39.830930114115695, -75.1953232668235",
+        "original_label": "data_center",
+        "misclassification_type": "false_negative",
+        "manually_determined_label": "not_data_center",
+        "explanation": "This is an outdoor furniture store, not a data center...."
+    },
+    {
+        "location": "29.672818699999958, -82.2997617",
+        "original_label": "data_center",
+        "misclassification_type": "false_negative",
+        "manually_determined_label": "not_data_center",
+        "explanation": "(I'm just marking not data center because this image is redundant with an earlier one)"
+    },
+    {
+        "location": "39.011764196036246, -77.46245654474912",
+        "original_label": "data_center",
+        "misclassification_type": "false_negative",
+        "manually_determined_label": "image_cut_off",
+        "explanation": "Way too zoomed in."
+    },
+    {
+        "location": "47.407163625794176, -120.1874901793035",
+        "original_label": "data_center",
+        "misclassification_type": "false_negative",
+        "manually_determined_label": "image_cut_off",
+        "explanation": "Way too zoomed in."
+    },
+    {
+        "location": "41.12623098984588, -104.90187602195964",
+        "original_label": "data_center",
+        "misclassification_type": "false_negative",
+        "manually_determined_label": "image_cut_off",
+        "explanation": "Way too zoomed in."
+    },
+    {
+        "location": "36.21535165955505, -86.78368364527593",
+        "original_label": "data_center",
+        "misclassification_type": "false_negative",
+        "manually_determined_label": "data_center",
+        "MW": 2.5
+    }
+]
